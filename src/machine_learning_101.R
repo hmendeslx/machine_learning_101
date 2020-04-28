@@ -1,3 +1,8 @@
+# Testing Machile Learning code from:
+# https://machinelearningmastery.com/machine-learning-in-r-step-by-step/
+#
+#
+
 library("caret")
 library("e1071")
 library("ellipse")
